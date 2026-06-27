@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -51,5 +53,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
