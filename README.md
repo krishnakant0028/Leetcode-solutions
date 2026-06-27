@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1672-richest-customer-wealth](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
 |  |
@@ -76,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
