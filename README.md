@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -37,4 +39,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
