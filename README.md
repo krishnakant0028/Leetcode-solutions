@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1470-shuffle-the-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
