@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Linked List
 |  |
 | ------- |
