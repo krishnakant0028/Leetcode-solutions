@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
+| [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
 | ------- |
