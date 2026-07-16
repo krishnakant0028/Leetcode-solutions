@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0796-rotate-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
