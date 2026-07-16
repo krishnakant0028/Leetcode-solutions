@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
