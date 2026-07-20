@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Math
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1854-maximum-population-year](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Matrix
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -189,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
