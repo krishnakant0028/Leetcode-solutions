@@ -13,9 +13,10 @@ class Solution {
                         max = Math.max(max, freq[k]);
                         min = Math.min(min,freq[k]);
                     }
-                }ans += (max - min);
+                }
+                ans += (max - min);
             }
-        }return ans;
-        
+        }
+        return ans;    
     }
 }
