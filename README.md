@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [1021-remove-outermost-parentheses](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
