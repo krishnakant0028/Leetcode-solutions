@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
