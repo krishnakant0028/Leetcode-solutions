@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/1854-maximum-population-year) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2404-most-frequent-even-element](https://github.com/krishnakant0028/Leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 ## Matrix
 |  |
