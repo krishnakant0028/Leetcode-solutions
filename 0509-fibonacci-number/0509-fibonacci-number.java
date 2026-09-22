@@ -4,13 +4,11 @@ class Solution {
             return n;
         }
         return fib(n-1) + fib(n-2);}
-        public static void main (String [] args){
-            Solution kk = new Solution();
-            System.out.println(kk.fib(6));
+        
         }
 
 
 
-    }
+    
         
     
